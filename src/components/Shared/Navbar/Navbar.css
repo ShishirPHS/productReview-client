@@ -1,0 +1,19 @@
+ul li a {
+  color: #1e1e1e80;
+  font-family: "poppins", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  background-color: transparent !important;
+  padding: 0 !important;
+  margin-right: 48px;
+}
+
+ul li:last-child a {
+  margin-right: 0;
+}
+
+ul li a.active {
+  color: #1e1e1e !important;
+}

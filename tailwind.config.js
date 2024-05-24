@@ -5,8 +5,9 @@ export default {
     extend: {
       fontFamily: {
         quella: ['"Quella"', "sans-serif"],
+        poppins: ["Poppins", "sans-serif"],
       },
     },
   },
-  plugins: [],
+  plugins: [require("daisyui")],
 };

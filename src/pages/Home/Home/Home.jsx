@@ -1,5 +1,5 @@
 const Home = () => {
-  return <div className="font-quella text-xl">GREENMIND</div>;
+  return <></>;
 };
 
 export default Home;
